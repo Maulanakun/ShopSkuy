@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+        "id":1,
+        "name": "M10 plus TWS Bluetooth 5.1",
+        "slug": "Earphone HiFi Stereo Noise-canceling Sports Wireless powerbank 3500mAh",
+        "description": "baterai tahan lama,fast charging",
+        "excerpt": "Thorax saepe deficio adimpleo conitor.",
+        "price": 31.800,
+        "tags": [" Earphone", "Head", "arceo"],
+        "thumbnail": "https://down-id.img.susercontent.com/file/id-11134201-23030-gttr39581gov2a",
+        "images": [
+            "https://down-id.img.susercontent.com/file/id-11134207-7qul9-ljnhxtvu34an28",
+            "https://down-id.img.susercontent.com/file/id-11134207-7qul9-ljnhxtvu34an28",
+            "https://down-id.img.susercontent.com/file/id-11134207-7qul9-ljnhxtvu34an28"
+        ],
+        "createdAt": "2023-12-15T15:32:06.350Z",
+        "updatedAt": "2024-03-18T14:47:12.101Z"
+        },
+        {
+            "id":2,
+            "nae": "SANDAL JEPIT",
+            "slug": "PRIA MOTIF FTG",
+            "description": "sandal jepit pria ,bahan spon ,motif sablon ,ukuran 39 40 41 42",
+            "excerpt": "Thorax saepe deficio adimpleo conitor.",
+            "price": 5.000,
+            "tags": [" Sandal", "Sepatu"],
+            "thumbnail": "https://down-id.img.susercontent.com/file/a9d43bd6d8382645976c5410d7a48e98",
+            "images": [
+                "https://down-id.img.susercontent.com/file/ef7d6c218c7e20dc8c66b10faa79f580",
+                "https://down-id.img.susercontent.com/file/463c425355e5c9f8d999e733404841c9",
+                "https://down-id.img.susercontent.com/file/9e2c67c92393d385b75ed1798263f1bf"
+            ],
+            "createdAt": "2023-12-15T15:32:06.350Z",
+            "updatedAt": "2024-03-18T14:47:12.101Z"
+            },
+            {
+                "id":3,
+                "nae": "Topi Baseball Nama Bulan Tanggal",
+                "slug": "Nama Bulan Tanggal Lahir Januari Februari Maret April Mei Juni Juli Agustus September Oktober November Desember",
+                "description": "Kini classic garage ready topi jaring polos kualitas premium dengan harga yang sangat terjangkau.",
+                "excerpt": "Thorax saepe deficio adimpleo conitor.",
+                "price": 31.800,
+                "tags": [" Topi", "Aksesoris"],
+                "thumbnail": "https://down-id.img.susercontent.com/file/id-11134207-7qul9-ljnhxtvu34an28",
+                "images": [
+                    "https://down-id.img.susercontent.com/file/id-11134201-23030-qo2s98581govcb",
+                    "https://down-id.img.susercontent.com/file/id-11134201-23030-xxtr39581gov01",
+                    "https://down-id.img.susercontent.com/file/id-11134201-23030-8o2s98581gov81"
+                ],
+                "createdAt": "2023-12-15T15:32:06.350Z",
+                "updatedAt": "2024-03-18T14:47:12.101Z"
+                }
+    ]
+}
